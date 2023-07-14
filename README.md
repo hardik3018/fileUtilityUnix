@@ -1,4 +1,4 @@
-HI, HELPER IS HERE TO HELP YOU!!  :D
+HI,THIS WILL GUIDE YOU THROUGH THIS UTILITY!!  :D
 
 
 This is a modular function in C-language that carries out various file handling tasks.
